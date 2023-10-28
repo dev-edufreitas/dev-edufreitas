@@ -1,6 +1,6 @@
 # Olá, eu sou Eduardo Henrique! 👋
 
-## Sobre mim
+## 📝 Sobre mim
 ☕ Transformo café em código e sonhos em APIs. Utilizando Frameworks como Laravel e CakePHP.
 
 🚀 Explorador do Front-End: Com Angular na mão esquerda e Bootstrap na direita, crio universos digitais que são tanto elegantes quanto funcionais.
