@@ -1,4 +1,4 @@
-# Olá, eu sou Eduardo Henrique! 👋
+# Olá, eu sou o Eduardo Henrique! 👋
 
 ## 📝 Sobre mim
 ☕ Transformo café em código e sonhos em APIs. Utilizando Frameworks como Laravel e CakePHP.
