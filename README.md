@@ -1,11 +1,9 @@
 # Olá, eu sou Eduardo Henrique! 👋
 
 ## Sobre mim
-🧙‍♂️ Mago do Back-End: Transformo café em código e sonhos em APIs. Minha varinha mágica? Frameworks como Laravel e CakePHP.
+☕ Transformo café em código e sonhos em APIs. Utilizando Frameworks como Laravel e CakePHP.
 
 🚀 Explorador do Front-End: Com Angular na mão esquerda e Bootstrap na direita, crio universos digitais que são tanto elegantes quanto funcionais.
-
-🗄️ Guardião dos Dados: Minha fortaleza de dados é construída sobre pilares de MySQL/Postgres, onde cada tabela é uma câmara de segredos bem guardados e cada relação é um elo místico que une territórios digitais.
 
 🎨 Artesão do Código: Não apenas codifico; eu crio. Acredito que cada linha de código é um pincelada em um quadro maior.
 
