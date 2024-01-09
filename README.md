@@ -3,9 +3,6 @@
 ## 📝 Sobre mim
 ☕ Transformo café em código e sonhos em APIs. Utilizando Frameworks como Laravel e CakePHP.
 
-🚀 Explorador do Front-End: Com Angular na mão esquerda e Bootstrap na direita, crio universos digitais que são tanto elegantes quanto funcionais.
-
-🎨 Artesão do Código: Não apenas codifico; eu crio. Acredito que cada linha de código é um pincelada em um quadro maior.
 
 ---
 
