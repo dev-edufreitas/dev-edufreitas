@@ -1,10 +1,5 @@
 # Olá, eu sou o Eduardo Henrique! 👋
 
-## 📝 Sobre mim
-☕ Desenvolvedor Full Stack com 3+ anos de experiência em desenvolvimento web. 
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Backend**: PHP, Laravel, CakePHP
